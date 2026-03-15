@@ -21,7 +21,7 @@ app.whenReady().then(() => {
       height: 600,
       icon: path.join(__dirname, 'whatsapp.png'),
       title: "WhatsApp App",
-      resizable: false,
+      resizable: true,
       show: true,
       center: true,
       webPreferences: {
