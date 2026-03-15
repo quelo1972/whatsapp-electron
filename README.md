@@ -2,6 +2,9 @@
 
 Client desktop non ufficiale per WhatsApp Web basato su Electron.
 
+**Screenshot**
+![Screenshot](docs/screenshot.png)
+
 **Requisiti**
 - Node.js + npm
 
@@ -17,4 +20,3 @@ npm run make
 ```
 
 Gli artefatti vengono generati in `out/make`.
-
